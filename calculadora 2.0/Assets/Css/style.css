@@ -1,0 +1,49 @@
+@charset "UTF-8";
+body{
+    background-color:rgb(7, 7, 7) ;
+    width: 600px;
+    margin: auto;   
+}
+main{
+    background-color:#52B3D9;
+    width: 280px;
+    line-height: 50px;
+    border-radius: 30px;
+    padding: 12px;
+    margin: auto;
+    text-align: center; 
+}
+#butt{
+    font-size: 20px;
+    background-color: #63a4da;
+    width:180px;
+    border-radius: 7px;
+    padding: 2px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(8, 1, 105, 0.979);
+}
+h1{
+    color:white;
+    text-align: center;
+    font: bold  16px Arial;
+}
+h2{
+    width:180px;
+    border-radius: 4px;
+    padding: 2px;
+    margin: auto;
+    background-color: rgba(17, 17, 17, 0.8);
+    color: white;
+    text-align: center;
+    font:bold 25px Arial; 
+}
+.paragrafo,#operaçao,#res{
+    box-shadow: 3px 3px 15px rgba(15, 15, 15, 0.979);
+    background-color: rgba(17, 17, 17, 0.849) ;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    font: bold 20px Arial ;
+    text-align: center;
+    margin: auto;
+    width:100px;
+}
